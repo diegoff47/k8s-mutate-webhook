@@ -50,7 +50,7 @@ don't forget to update `IMAGE_PREFIX` in the Makefile or set it when running `ma
 useful during devving ... 
 
 ```
-watcher -watch github.com/alex-leonhardt/k8s-mutate-webhook -run github.com/alex-leonhardt/k8s-mutate-webhook/cmd/
+watcher -watch github.com/diegoff47/k8s-mutate-webhook -run github.com/diegoff47/k8s-mutate-webhook/cmd/
 ```
 
 ## Running in docker-for-mac
