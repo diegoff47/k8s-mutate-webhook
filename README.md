@@ -42,7 +42,7 @@ don't forget to update `IMAGE_PREFIX` in the Makefile or set it when running `ma
 
 ### images
 
-[`alexleonhardt/k8s-mutate-webhook`](https://cloud.docker.com/repository/docker/alexleonhardt/k8s-mutate-webhook)
+[`diegofa/k8s-mutate-webhook`](https://cloud.docker.com/repository/docker/diegofa/k8s-mutate-webhook)
 
 
 ## watcher
